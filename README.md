@@ -15,5 +15,5 @@
 
 ## Contact
 
-If you want to reach me, feel free to get in touch!
-
+If you want to reach me, feel free to get in touch!<br>
+Email: [jphilips.dev@gmail.com](mailto:jphilips.dev@gmail.com)
