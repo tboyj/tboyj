@@ -7,11 +7,11 @@
 
 ## Tech Stack
 
-- Java (4+ years)
-- C# (3 years)
-- Unity (3 years)
-- Python (2 years)
-- JavaScript/Node.js (1 year)
+- Java
+- C#
+- Unity
+- Python
+- HTML, CSS, JS
 
 ## Contact
 
