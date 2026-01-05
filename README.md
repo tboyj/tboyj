@@ -1,18 +1,33 @@
 # ``` jacksonphilips_ ```
+---
+## Projects
 
-## Contributions
+### [ChronoQuest](https://www.github.com/tboyj/chronoquest)  
+A puzzle-adventure game about travelling back in time and returning quick enough before you're trapped forever 
+- Lead Programmer/Architect
+- Main Artist
+- Sound Designer
 
-- Lead Programmer, Architect & Artist for **ChronoQuest**
-- Assistant Designer for **SkillSwap**
+### SkillSwap
+A web app that provides flash cards, learning and study tools
+- UX/UI Designer
+> This repository is currently private.
+### [MentalPanda](https://github.com/ekatomp4/Mental-Health)
+A mental health website that provides assistance and knowledge to those who are curious or in need
+- UX/UI Designer
+- Programmer
 
+---
 ## Tech Stack
 
+**Languages/Frameworks**
 - Java
 - C#
 - Unity
 - Python
 - HTML, CSS, JS
 
+---
 ## Contact
 
 If you want to reach me, feel free to get in touch!<br>
