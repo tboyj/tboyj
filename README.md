@@ -8,10 +8,9 @@ A puzzle-adventure game about travelling back in time and returning quick enough
 - Main Artist
 - Sound Designer
 
-### SkillSwap
+### [SkillSwap](https://www.github.com/x0tlc/skillswap)
 A web app that provides flash cards, learning and study tools
 - UX/UI Designer
-> This repository is currently private.
 ### [MentalPanda](https://github.com/ekatomp4/Mental-Health)
 A mental health website that provides assistance and knowledge to those who are curious or in need
 - UX/UI Designer
