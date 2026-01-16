@@ -2,7 +2,7 @@
 ---
 ## Currently working on [@blunderfly](https://www.github.com/blunderfly)
 
-## Previous Projects
+## Projects
 
 ### [ChronoQuest](https://www.github.com/tboyj/chronoquest)  
 A puzzle-adventure game about travelling back in time and returning quick enough before you're trapped forever 
