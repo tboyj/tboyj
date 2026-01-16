@@ -1,5 +1,7 @@
 # ``` jacksonphilips_ ```
 ---
+## Currently working on [@blunderfly](https://www.github.com/blunderfly)
+
 ## Projects
 
 ### [ChronoQuest](https://www.github.com/tboyj/chronoquest)  
@@ -11,6 +13,7 @@ A puzzle-adventure game about travelling back in time and returning quick enough
 ### [SkillSwap](https://www.github.com/x0tlc/skillswap)
 A web app that provides flash cards, learning and study tools
 - UX/UI Designer
+
 ### [MentalPanda](https://github.com/ekatomp4/Mental-Health)
 A mental health website that provides assistance and knowledge to those who are curious or in need
 - UX/UI Designer
