@@ -5,18 +5,17 @@
 
 ### [ChronoQuest](https://www.github.com/tboyj/chronoquest)  
 A puzzle-adventure game about travelling back in time and returning quick enough before you're trapped forever 
-- Lead Programmer/Architect
-- Main Artist
-- Sound Designer
+- Lead Programmer
+- Systems Engineer
 
 ### [SkillSwap](https://www.github.com/XOTlC/skillswap)
 A web app that provides flash cards, learning and study tools
-- UX/UI Designer
+- Technical Contributor
 
 ### [MentalPanda](https://github.com/ekatomp4/Mental-Health)
 A mental health website that provides assistance and knowledge to those who are curious or in need
-- UX/UI Designer
 - Programmer
+- Systems Contributor
 
 ---
 ## Tech Stack
