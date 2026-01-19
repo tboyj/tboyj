@@ -9,7 +9,7 @@ A puzzle-adventure game about travelling back in time and returning quick enough
 - Main Artist
 - Sound Designer
 
-### [SkillSwap](https://www.github.com/x0tlc/skillswap)
+### [SkillSwap](https://www.github.com/XOTlC/skillswap)
 A web app that provides flash cards, learning and study tools
 - UX/UI Designer
 
