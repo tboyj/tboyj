@@ -1,6 +1,5 @@
 # ``` jacksonphilips_ ```
 ---
-## Currently working on [@blunderfly](https://www.github.com/blunderfly)
 
 ## Projects
 
