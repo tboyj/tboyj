@@ -1,5 +1,6 @@
-# ``` jacksonphilips_ ```
----
+# Jackson Philips
+## Welcome
+Hey, I'm Jackson! I like to make games and mess around with systems development. I am currently admitted in college for Computer Science. 
 
 ## Projects
 
@@ -27,6 +28,5 @@ A mental health website that provides assistance and knowledge to those who are 
 
 ---
 ## Contact
-
-If you want to reach me, feel free to get in touch!<br>
-Email: [jphilips.dev@gmail.com](mailto:jphilips.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jackson-philips)  
+[Email](mailto:jphilips.dev@gmail.com)
