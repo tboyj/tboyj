@@ -1,6 +1,4 @@
 # Jackson Philips
-## Welcome
-Hey, I'm Jackson! I like to make games and mess around with systems development. I am currently admitted in college for Computer Science. 
 
 ## Projects
 
