@@ -15,17 +15,6 @@ A web app that provides flash cards, learning and study tools
 ### [MentalPanda](https://github.com/ekatomp4/Mental-Health)
 A mental health website that provides assistance and knowledge to those who are curious or in need
 - Programmer
-
----
-## Tech Stack
-
-**Languages/Frameworks**
-- Java
-- C#
-- Unity
-- Python
-- HTML, CSS, JS
-
 ---
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/jackson-philips)  
