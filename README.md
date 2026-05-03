@@ -18,5 +18,5 @@ A mental health website that provides assistance and knowledge to those who are 
 ---
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/jackson-philips)  
-[Email](mailto:jphilips.dev@gmail.com)
-[Bluesky](https://bsky.app/profile/tboyj.github.io)
+[Email](mailto:jphilips.dev@gmail.com)  
+[Bluesky](https://bsky.app/profile/tboyj.github.io)  
